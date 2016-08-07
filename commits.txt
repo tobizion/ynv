@@ -1,0 +1,17 @@
+commit daf9d092266efb692c3cabd90018c74635c4ed44
+Author: rogerCG <tony2006cg@gmail.com>
+Date:   Sat Aug 6 20:54:25 2016 -0500
+
+     2do cambio de titulo a la pestaña de playlists
+
+commit d4687f93664766ff2079b5d10a093f6ecbd681bb
+Author: rogerCG <tony2006cg@gmail.com>
+Date:   Sat Aug 6 20:45:57 2016 -0500
+
+    Cambio de titulo a la pestaña de playlists
+
+commit 7e5e1291870a2c541769be97c0ca19125b9e517d
+Author: rogerCG <tony2006cg@gmail.com>
+Date:   Sat Aug 6 20:44:05 2016 -0500
+
+    Iniciando proyecto
